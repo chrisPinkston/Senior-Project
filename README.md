@@ -1,18 +1,18 @@
 # Senior-Project
 senior project for computer science
 
-##Project Scope and Objectives:
+## Project Scope and Objectives:
 
-**Project Scope:** The project aims to develop a comprehensive algorithmic trading and portfolio management system with integrated data analysis and an intelligent chatbot. The system will utilize machine learning techniques, real-time market data, and financial analysis to make informed trading decisions and provide personalized investment recommendations.
+# Project Scope: The project aims to develop a comprehensive algorithmic trading and portfolio management system with integrated data analysis and an intelligent chatbot. The system will utilize machine learning techniques, real-time market data, and financial analysis to make informed trading decisions and provide personalized investment recommendations.
 
-##Project Objectives:
+## Project Objectives:
 
 1. Develop an algorithmic trading module that uses machine learning techniques to analyze market data and execute trades based on predefined rules and risk management strategies.
 2. Create a portfolio management module that optimizes asset allocation based on user preferences, risk analysis, and market trends.
 3. Implement data analysis and visualization features to provide insights and trends in financial data.
 4. Develop an intelligent chatbot using natural language processing techniques to interact with users, provide information, and offer investment recommendations.
 
-**Project Plan:**
+##Project Plan:
 
 1. Define Project Scope and Objectives - 1 week
 2. Research and Gather Required Resources - 1 week
