@@ -13,7 +13,7 @@ The project aims to develop a comprehensive algorithmic trading and portfolio ma
 3. Implement data analysis and visualization features to provide insights and trends in financial data.
 4. Develop an intelligent chatbot using natural language processing techniques to interact with users, provide information, and offer investment recommendations.
 
-##Project Plan:
+## Project Plan:
 
 1. Define Project Scope and Objectives - 1 week
 2. Research and Gather Required Resources - 1 week
