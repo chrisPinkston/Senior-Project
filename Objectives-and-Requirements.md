@@ -1,4 +1,4 @@
-** Define Requirements and Objectives**
+**Define Requirements and Objectives**
 
 Review the project scope and objectives:
 
@@ -33,7 +33,7 @@ Document the requirements and objectives:
 - Specify the functionalities, inputs, outputs, and interactions of each component.
 - Consider user requirements, system performance, security, and usability factors.
 
-** Gather and Preprocess Data**
+**Gather and Preprocess Data**
 
 Research and identify data sources:
 
