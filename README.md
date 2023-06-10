@@ -23,21 +23,25 @@ TIMELINE
 2. Gather and Preprocess Data.
 
 **Week 2:**
+
 3. Implement Data Analysis and Visualization.
 
 1. Develop Machine Learning Models.
 
 **Week 3:**
+
 5. Design and Implement Trading Strategies.
 
 1. Build Portfolio Management Features.
 
 **Week 4:**
+
 7. Integrate the Intelligent Chatbot.
 
 1. Implement Risk Management Measures.
 
 **Week 5:**
+
 9. Perform Backtesting and Simulation.
 
 1. Implement Real-Time Trading and Monitoring.
