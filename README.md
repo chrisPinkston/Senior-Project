@@ -15,13 +15,34 @@ The project aims to develop a comprehensive algorithmic trading and portfolio ma
 
 ## Project Plan:
 
-1. Define Project Scope and Objectives - 1 week
-2. Research and Gather Required Resources - 1 week
-3. Design and Architecture - 1 week
-4. Implementation - 2 weeks
-5. Integration and Testing - 1 week
-6. Documentation and Report Writing - 1 week
-7. Presentation and Finalization - 1 week
+TIMELINE
+
+**Week 1:**
+
+1. Define Requirements and Objectives.
+2. Gather and Preprocess Data.
+
+**Week 2:**
+3. Implement Data Analysis and Visualization.
+
+1. Develop Machine Learning Models.
+
+**Week 3:**
+5. Design and Implement Trading Strategies.
+
+1. Build Portfolio Management Features.
+
+**Week 4:**
+7. Integrate the Intelligent Chatbot.
+
+1. Implement Risk Management Measures.
+
+**Week 5:**
+9. Perform Backtesting and Simulation.
+
+1. Implement Real-Time Trading and Monitoring.
+2. Perform Continuous Evaluation and Improvement.
+3. Ensure Security and Compliance.
 
 
 ## Algorithmic Trading:
